@@ -42,7 +42,7 @@ Welcome to Hanqaqa's post Arch Linux install. This script will now install:
 
 read -p "Press Enter to begin the Postinstall..."
 
-sudo pacman -S --needed nano neovim vim htop neofetch zip unzip vlc git chromium qemu --noconfirm
+sudo pacman -S --needed nano neovim vim htop neofetch zip unzip vlc git chromium qemu-full --noconfirm
 
 # Installing Yay
 
